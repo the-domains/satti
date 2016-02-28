@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Satti]]></title>
         <description><![CDATA[Satti]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/satti/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 21:58:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 21:59:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/satti/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e6f82a6-ca22-4d02-904b-db591b8dd261.png">]]></description>
+            <link>https://thegrid.ai/satti/9356851f-54da-4eb7-be3f-7cdf30d0e233/index.html</link>
+            <guid isPermaLink="false">9356851f-54da-4eb7-be3f-7cdf30d0e233</guid>
+            <pubDate>Sun, 28 Feb 2016 21:58:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f95972b-bd06-4df0-9330-55ecc7701d95.png">]]></description>
-            <link>undefined229a8e85-5ee4-44f5-9cf6-394c8414f4a5/index.html</link>
+            <link>https://thegrid.ai/satti/229a8e85-5ee4-44f5-9cf6-394c8414f4a5/index.html</link>
             <guid isPermaLink="false">229a8e85-5ee4-44f5-9cf6-394c8414f4a5</guid>
             <pubDate>Sun, 28 Feb 2016 21:58:45 GMT</pubDate>
         </item>
