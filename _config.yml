@@ -1,0 +1,14 @@
+layout_spectrum: 0.9129072
+typography_spectrum: 0.4360902
+color:
+  saturation: 0.2250281
+  lightness: 0.6714852
+  brandStrength: 0.8483709
+  brandColors:
+    - '#928665'
+    - '#5B5B5C'
+    - '#669BE0'
+    - '#4B3728'
+    - '#FFFFFB'
+  rhythmicContrast: 0.7309293
+name: Satti
