@@ -1,3 +1,7 @@
+name: Satti
+favicon: null
+layout_spectrum: 0.9129072
+typography_spectrum: 0.4360902
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.4360902
+title: Profile
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5112782
-  brandStrength: 0.6102757
-  lightness: 0.4974937
   brandColors:
     - '#928665'
     - '#5B5B5C'
     - '#669BE0'
     - '#4B3728'
     - '#FFFFFB'
+  brandStrength: 0.6102757
+  lightness: 0.4974937
+  saturation: 0.5112782
   rhythmicContrast: 0.4761905
-layout_spectrum: 0.9129072
-name: Satti
+purpose: []
